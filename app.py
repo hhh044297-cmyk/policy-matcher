@@ -381,7 +381,7 @@ st.markdown("""
     <p class="hero-subtitle">只需填写基本信息，AI 为您精准匹配每一项专属政策权益</p>
     <div style="display:flex;justify-content:center;gap:32px;flex-wrap:wrap;">
         <div style="text-align:center;min-width:70px;">
-            <div style="font-size:2rem;font-weight:800;color:#FF6B35;line-height:1;">23</div>
+            <div style="font-size:2rem;font-weight:800;color:#FF6B35;line-height:1;">46</div>
             <div style="font-size:0.8rem;color:#6b7280;margin-top:4px;">已接入政策</div>
         </div>
         <div style="text-align:center;min-width:70px;">
